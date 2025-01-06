@@ -36,8 +36,9 @@ Backend: Node.js
 Development Time: (Add the duration of development)
 ## 📷 Screenshots
 ![WhatARide1](./Imgs/BioBrawl1.png)
-![WhatARide1](./Imgs/BioBrawl2.png)
 ![WhatARide1](./Imgs/BioBrawl3.png)
+![WhatARide1](./Imgs/BioBrawl2.png)
+
 ![WhatARide1](./Imgs/BioBrawl4.png)
 ![WhatARide1](./Imgs/BioBrawl5.png)
 ![WhatARide1](./Imgs/BioBrawl6.png)
