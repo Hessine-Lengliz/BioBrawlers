@@ -12,7 +12,9 @@ Unfortunately, I am unable to provide the game files at this time. I deeply apol
 🌍 Environmental Themes: Learn about environmental odds while having fun.
 
 🆓 Free to Play: Accessible for everyone!
+
 🛠️ Customizable Avatars: Express yourself with unique character designs.
+
 🔧 Continuous Updates: Stay entertained with fresh content and improvements.
 
 ## 📽️ Trailer
