@@ -6,8 +6,11 @@ delivering electricity, or racing through seasons, BioBrawlers offers engaging g
 
 Unfortunately, I am unable to provide the game files at this time. I deeply apologize for this inconvenience and appreciate your understanding. Please stay tuned for future updates! 🙏
 ## 🚀 Features
+
 🎉 Multiplayer Madness: Engage in fun, competitive mini-games.
+
 🌍 Environmental Themes: Learn about environmental odds while having fun.
+
 🆓 Free to Play: Accessible for everyone!
 🛠️ Customizable Avatars: Express yourself with unique character designs.
 🔧 Continuous Updates: Stay entertained with fresh content and improvements.
