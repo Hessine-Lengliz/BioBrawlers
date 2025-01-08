@@ -2,6 +2,18 @@
 BioBrawlers is an exciting multiplayer game developed to combine fun with learning, revolving around the themes of Sustainable Development Goals (SDGs). It was built with a Node.js backend, Unity and C# frontend, and features user authentication, 
 login systems, and the ability to join either private lobbies or public games. The game features a variety of mini-games where you compete with friends to achieve environmental and community-related objectives. Whether you're cleaning up beaches,
 delivering electricity, or racing through seasons, BioBrawlers offers engaging gameplay with a twist!
+## 🙏 Apology
+
+Unfortunately, I am unable to provide the game files at this time. I deeply apologize for this inconvenience and appreciate your understanding. Please stay tuned for future updates! 🙏
+## 🚀 Features
+🎉 Multiplayer Madness: Engage in fun, competitive mini-games.
+🌍 Environmental Themes: Learn about environmental odds while having fun.
+🆓 Free to Play: Accessible for everyone!
+🛠️ Customizable Avatars: Express yourself with unique character designs.
+🔧 Continuous Updates: Stay entertained with fresh content and improvements.
+
+## 📽️ Trailer
+Check out the [trailer here](https://www.youtube.com/watch?v=pVM9VlWCor0).
 
 ## 🛠️ About the Game
 BioBrawlers is a collection of mini-games designed around the concept of sustainability and SDGs. Players can either create a private lobby or join an existing public one. Each mini-game has unique mechanics and challenges, promoting friendly 
@@ -34,6 +46,7 @@ Engine: Unity
 Language: C#
 Backend: Node.js
 Development Time: (Add the duration of development)
+
 ## 📷 Screenshots
 ![WhatARide1](./Imgs/BioBrawl1.png)
 ![WhatARide1](./Imgs/BioBrawl3.png)
